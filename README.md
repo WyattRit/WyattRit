@@ -1,5 +1,6 @@
 ## Hi there 👋
 Wyatt Ritchie 
+
 Pursuing bachelors in computer science at Wright State
 
 Working on .msl datalog viewer for Android and Megasquirt data logger for Android.
