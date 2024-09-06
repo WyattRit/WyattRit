@@ -1,4 +1,8 @@
 ## Hi there 👋
+Wyatt Ritchie 
+Pursuing bachelors in computer science at Wright State
+
+Working on .msl datalog viewer for Android and Megasquirt data logger for Android.
 
 <!--
 **WyattRit/WyattRit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
